@@ -1,0 +1,6 @@
+new.py
+.venv/
+config.py
+__pycache__
+bot_db.db
+bot.db
